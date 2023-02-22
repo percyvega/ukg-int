@@ -8,8 +8,8 @@ class ReverseAndCapitalizeWordsInStringTest {
 
     @Test
     void reverseAndCapitalizeWordsInString() {
-        String actual = ReverseAndCapitalizeWordsInString.reverseAndCapitalizeWordsInString("I saw desserts");
+        String actual = ReverseAndCapitalizeWordsInString.reverseAndCapitalizeWordsInString("I saw a deer");
 
-        assertEquals("I Was Stressed", actual);
+        assertEquals("I Was A Reed", actual);
     }
 }
